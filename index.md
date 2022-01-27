@@ -27,7 +27,6 @@ Leite Ninho a gosto para finalizar
 - Em um liquidificador adicione o leite condensado, o creme de leite, o leite em pó e a gelatina dissolvida.
   Bata por 5 minutos.
 - Agora é só montar a nossa torta.
--
 - Na massa da torta, adicione a Nutella e em seguida adicione o mousse de leite em pó.
 - Leve a geladeira por aproximadamente 3 horas!
 - Sirva com leite em pó em cima da torta e prontinho!
