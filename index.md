@@ -1,37 +1,45 @@
 ## Bem vindo a minha Página personalizada
 
-You can use the [editor on GitHub](https://github.com/anacclara6/anacclara6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Me chamo Ana Clara, e vou ensinar a você a fazer a melhor Torta de Leite Ninho com Nutella que você já viu...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sabemos que vocês são apaixonados por esta união do Leite Ninho com a Nutella! Tá tá… eu também sou! kkkk
+E foi por isso que viemos aqui trazer essa recitinha facil e pratica pra você que adooora uma sobremesa.
+Então, bora vê essa receita completinha que você vai se apaixonar como eu!
 
-### Markdown
+### Vamos precisar de:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+200g de biscoito maizena
+4 colheres de sopa de manteiga derretida
+1 lata de leite condensado
+2 caixinhas de creme de leite
+1 xícara de Leite Ninho
+24g de gelatina incolor sem sabor dissolvida
+200g de Nutella
+Leite Ninho a gosto para finalizar
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Modo de preparo:
 
-- Bulleted
-- List
+- Leve ao liquidificador o biscoito Maizena e bata bem até formar uma “farofa”.
+- Misture bem o biscoito maizena triturado com a manteiga derretida.
+- Em uma forma de fundo removível (20cm), adicione todo a massa de biscoito com manteiga e forre a forma por inteiro.
+- Leve ao forno 200 graus por 10 minutos. Reserve.
+- Em um liquidificador adicione o leite condensado, o creme de leite, o leite em pó e a gelatina dissolvida.
+  Bata por 5 minutos.
+- Agora é só montar a nossa torta.
+-
+- Na massa da torta, adicione a Nutella e em seguida adicione o mousse de leite em pó.
+- Leve a geladeira por aproximadamente 3 horas!
+- Sirva com leite em pó em cima da torta e prontinho!
 
-1. Numbered
-2. List
+- Essa receita rende 8 pedaços e demora 20 minutinhos de preparo + 3 horas de geladeira.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Dicas legais:
+Qual o tamanho da forma? 20cm
+Como dissolver a gelatina? É só colocar 24g de gelatina em um potinho com 5 colheres de sopa de água, misture e leve para o microondas por 20 segundos.
+Retire do microondas e jogue imediatamente no liquidificador junto com o mousse.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anacclara6/anacclara6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
